@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://tryhackme.com/badge/249144)
+![](https://tryhackme-badges.s3.amazonaws.com/TheLurps.png)
 
 <!--
 **TheLurps/TheLurps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
