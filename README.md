@@ -27,3 +27,5 @@
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=TheLurps)
 ![GitHubTopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLurps&layout=compact)
 <!-- ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TheLurps) -->
+
+[Impressum](https://lurps.rocks/impressum/)
