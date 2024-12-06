@@ -1,31 +1,27 @@
 ### Hi there, I'm Lurps 👋
+# 💫 About Me:
+🔭 I’m currently researching on anomaly detection in network traffic<br>👯 I’m looking to collaborate on any work regarding my research or Gentoo🐧❤️<br>🤝 I’m looking for help with acquiring cool datasets and learning about recent ML models<br>🌱 I’m currently learning all about infrastructure as code, Kubernetes and machine learning<br>💬 Ask me about FOSS, my research or any fun project<br>⚡ Fun fact I'm really into German Kurrent script and stenography
 
-## 🔭 I’m currently working on ...
-- IaC including private and cooperate uses
 
-## 🌱 I’m currently learning ...
-- Terraform
-- Ansbile
-- AutomatedLab
-- Desired State Configuration (DSC) for Windows
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-schraven-170071142) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thelurps) 
 
-<!-- ## Technical Skills -->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thelurps&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thelurps&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thelurps&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ## 👯 I’m looking to collaborate on ... -->
-<!-- ## 🤔 I’m looking for help with ... -->
-<!-- ## 💬 Ask me about ... -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thelurps&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-## 📫 How to reach me:
-<a href="https://twitter.com/thelurps">
-  <img alt="Twitter" src="https://img.shields.io/badge/TheLurps-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thelurps&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<!-- ## 😄 Pronouns: he/his -->
-<!-- ## ⚡ Fun fact: ... -->
+---
+[![](https://visitcount.itsvg.in/api?id=thelurps&icon=0&color=2)](https://visitcount.itsvg.in)
 
-## My Stats:
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=TheLurps)
-![GitHubTopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLurps&layout=compact)
-<!-- ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TheLurps) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [Impressum](https://lurps.rocks/impressum/)
